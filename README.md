@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrikant Dhole</h1>
 # 💫 About Me:
-Full-Stack Developer with a Passion for Innovation and Problem-Solving
+I hold a PG Diploma in Advanced Computing. Skilled in programming languages such as Java, JavaScript, React JS, and MySQL and have expertise in web development.
 
 
 ## 🌐 Socials:
