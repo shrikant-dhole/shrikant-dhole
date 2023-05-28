@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I hold a PG Diploma in Advanced Computing. Skilled in programming languages such as Java, JavaScript, React JS, and MySQL and have expertise in web development.
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tCYw-lr8tKUlX1QoE8DwiQpG00zvob8w/view?usp=share_link](https://drive.google.com/file/d/1tCYw-lr8tKUlX1QoE8DwiQpG00zvob8w/view?usp=share_link)
+- 📄 Know about my experiences : (https://drive.google.com/file/d/1tCYw-lr8tKUlX1QoE8DwiQpG00zvob8w/view?usp=share_link)
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## 🌐 Socials:
